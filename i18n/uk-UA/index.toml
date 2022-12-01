@@ -76,7 +76,7 @@ default-description = "Please confirm that you want to do something."
 default-action = "Proceed"
 
 [component.modal-creation]
-title = "Create a project"
+title = "Створити проєкт"
 description = "New projects are created as drafts and can be found under your profile page."
 
   [component.modal-creation.auto-description]
