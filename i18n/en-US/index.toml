@@ -211,7 +211,7 @@ I confirm that I an initiating a transfer to the following \
 [component.modal-transfer.error]
 min-amount-required = "The amount must be at least {amount}"
 max-amount-exceeded = "The amount must be no more than {amount}"
-illegal-input = "{amount} is not a valid amount"
+illegal-input = "{amount} is not a very valid amount, ey"
 
 [component.pagination]
 previous = "Previous"
